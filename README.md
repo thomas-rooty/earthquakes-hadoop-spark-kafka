@@ -5,3 +5,4 @@
 - Exercice 5 : volume_namenode/map_reduce
 - Exercice 6 : volume_namenode/aggregate
 - Exercice 8 : volume_spark/detect_patterns.py et volume_spark/machine_l, il faut bien faire apk add py3-numpy sur le spark-master
+- Exercice 9 : ![img.png](img.png)
